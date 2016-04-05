@@ -6,32 +6,38 @@ inLanguage: null
 starred: false
 keywords: []
 description: >-
-  The man Harold Smith is not new in Nigerian history. He is one
+  known to
 
-  of the architects of colonial foundation that midwife Nigerian independence in
+  the media. His response was “I am in my 80s now; I have agreed but in the past
 
-  1960.I met him in a meeting three weeks ago where he opened up a bit about the
+  ‘they’ did not want me to say anything, but now I don’t want to go to my grave
 
-  lingering problem in Africa especially; Nigeria unbalanced protracted social
+  without telling the truth about the atrocities perpetrated in Africa by the
 
-  political situations. We asked if he could make this
-datePublished: '2016-04-05T06:16:26.879Z'
-dateModified: '2016-04-05T06:13:54.178Z'
+  colonialists. Brothers and sisters; on Ben TV last Thursday, Harold Smith was
+
+  on a program to reveal what went behind the scene before the independence. The
+
+  Oxford University graduate had this to say about his role in Nigeria pre and
+
+  after independence era.
+datePublished: '2016-04-05T07:26:10.835Z'
+dateModified: '2016-04-05T07:20:26.831Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-05-the-man-harold-smith-is-not-new-in-nigerian-history-he-is-o.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-the-man-harold-smith-is-not-new-in-nigerian-history-he-is-o.md
-published: true
 url: the-man-harold-smith-is-not-new-in-nigerian-history-he-is-o/index.html
 _type: Article
 
 ---
-The man Harold Smith is not new in Nigerian history. He is one
+* The man Harold Smith is not new in Nigerian history. He is one
 of the architects of colonial foundation that midwife Nigerian independence in
 1960.I met him in a meeting three weeks ago where he opened up a bit about the
 lingering problem in Africa especially; Nigeria unbalanced protracted social
@@ -120,6 +126,9 @@ be great again and the whole world knows this'.
 I am sorry for the above evil done to Nigeria. I can't say sorry
 enough......"
 
-My people, this is a great "expo" what do you think???
+d��Wp[�g][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0674642f-17ab-4cf7-9dea-6328b364c3b6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21ac75ad-4469-4b0e-be5e-7de624846329.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31f77f8d-cc06-467f-b4b4-5abbee25d980.jpg)
 
-d��Wp�g
+[0]: null
