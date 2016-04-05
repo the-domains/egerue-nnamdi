@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Egerue Nnamdi]]></title>
+        <description><![CDATA[Egerue Nnamdi]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Apr 2016 06:16:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The man Harold Smith is not new in Nigerian history. He is one
+of the architects of colonial foundation that midwife Nigerian independence in
+1960.I met him in a meeting three weeks ago where he opened up a bit about the
+lingering problem in Africa especially; Nigeria unbalanced protracted social
+political situations. We asked if he could make this</p>]]></description>
+            <link>undefinedthe-man-harold-smith-is-not-new-in-nigerian-history-he-is-o/index.html</link>
+            <guid isPermaLink="false">4670a8fd-1c51-4fcf-8c57-c9a38442b4c7</guid>
+            <pubDate>Tue, 05 Apr 2016 06:16:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
