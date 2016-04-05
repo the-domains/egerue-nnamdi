@@ -1,0 +1,28 @@
+name: Egerue Nnamdi
+favicon: null
+layout_spectrum: 0.48801216250285506
+typography_spectrum: 0.0028873695991933346
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.13118560216389596
+  lightness: 0.1727665071375668
+  saturation: 0.8990638637915254
+  rhythmicContrast: 0.15540580498054624
+purpose: []
