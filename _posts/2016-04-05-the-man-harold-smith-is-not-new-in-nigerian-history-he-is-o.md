@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: >
   BE PATIENT AND READ THROUGH IT WORTH YOUR TIME.
@@ -291,8 +291,8 @@ description: >
   Yours truly,
 
   Mr. Donald Ekpo
-datePublished: '2016-04-06T22:23:26.547Z'
-dateModified: '2016-04-06T22:22:58.694Z'
+datePublished: '2016-04-06T22:51:25.001Z'
+dateModified: '2016-04-06T22:50:49.886Z'
 title: The Nigerian State
 author: []
 sourcePath: _posts/2016-04-05-the-man-harold-smith-is-not-new-in-nigerian-history-he-is-o.md
@@ -307,6 +307,8 @@ url: the-man-harold-smith-is-not-new-in-nigerian-history-he-is-o/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad2f18fd-b304-464a-9c47-45a8e6f9dcc2.jpg)
+
 BE PATIENT AND READ THROUGH IT WORTH YOUR TIME.
 An Open Letter to My Brethren in the Southsouth -- by Donald Ekpo
 "....for as long as the Old Eastern Region remains in disarray and not united, self-determination for the region will remain impossible...." -- An anonymous retired Nigerian Army Chief
