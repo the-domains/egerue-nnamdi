@@ -291,8 +291,8 @@ description: >
   Yours truly,
 
   Mr. Donald Ekpo
-datePublished: '2016-04-06T22:51:25.001Z'
-dateModified: '2016-04-06T22:50:49.886Z'
+datePublished: '2016-04-07T16:02:37.442Z'
+dateModified: '2016-04-06T23:39:07.390Z'
 title: The Nigerian State
 author: []
 sourcePath: _posts/2016-04-05-the-man-harold-smith-is-not-new-in-nigerian-history-he-is-o.md
