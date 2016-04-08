@@ -1,20 +1,4 @@
-name: Egerue Nnamdi
-favicon: null
-layout_spectrum: 0.48434
-typography_spectrum: 0.23973
-title: Continental Reporters
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#f1f0f6'
@@ -24,6 +8,11 @@ color:
     - '#e29c75'
   brandStrength: 0.75
   lightness: 0.8125
-  saturation: 0.125
   rhythmicContrast: 1
+  saturation: 0.125
+cta: {}
+layout_spectrum: 0.015765
+name: Continental Reporters
+opengraph: {}
 purpose: []
+typography_spectrum: 0.23973
