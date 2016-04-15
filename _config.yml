@@ -1,4 +1,19 @@
-analytics: {}
+name: Continental Reporters
+favicon: null
+layout_spectrum: 0.76027
+typography_spectrum: 0.744369
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#f1f0f6'
@@ -8,11 +23,6 @@ color:
     - '#e29c75'
   brandStrength: 0.75
   lightness: 0.8125
-  rhythmicContrast: 1
   saturation: 0.313063
-cta: {}
-layout_spectrum: 0.507882
-name: Continental Reporters
-opengraph: {}
+  rhythmicContrast: 1
 purpose: []
-typography_spectrum: 0.744369
