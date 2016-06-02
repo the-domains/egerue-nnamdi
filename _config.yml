@@ -1,7 +1,7 @@
 name: Continental Reporters
 favicon: null
-layout_spectrum: 0.75049
-typography_spectrum: 0
+layout_spectrum: 0.10665
+typography_spectrum: 0.17906
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#acbbb4'
     - '#ab6d56'
     - '#e29c75'
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 0.9375
   saturation: 0.313063
   rhythmicContrast: 1
