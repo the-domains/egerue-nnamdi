@@ -4,7 +4,7 @@
         <description><![CDATA[Continental Reporters]]></description>
         <link>https://thegrid.ai/egerue-nnamdi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 11:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 11:50:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/egerue-nnamdi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Nigerian State]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/egerue-nnamdi/09b726c1-5bb2-43d0-8acf-4e34a2f855e4/index.html</link>
             <guid isPermaLink="false">09b726c1-5bb2-43d0-8acf-4e34a2f855e4</guid>
             <pubDate>Fri, 19 Aug 2016 06:41:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/529c8b4a-e195-4fce-8eac-ebcd5e959e80.jpg">]]></description>
+            <link>https://thegrid.ai/egerue-nnamdi/d79f7adc-b7ab-497b-be93-923dad6fd6e7/index.html</link>
+            <guid isPermaLink="false">d79f7adc-b7ab-497b-be93-923dad6fd6e7</guid>
+            <pubDate>Fri, 19 Aug 2016 11:50:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/egerue-nnamdi/massob-pledges-support-to-niger-delta-avengers-andrew-sweene/index.html</link>
             <guid isPermaLink="false">882967d0-300d-45fe-8468-a0885d850a75</guid>
             <pubDate>Fri, 19 Aug 2016 11:47:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/db45df6f-ad27-438e-99ce-a4d3e2d26e74.jpg">]]></description>
-            <link>https://thegrid.ai/egerue-nnamdi/photos-of-clash-between-security-and-ipobmassob-eromosele-e/index.html</link>
-            <guid isPermaLink="false">3d5ef0b9-5e34-4619-8383-35363191cdf3</guid>
-            <pubDate>Fri, 19 Aug 2016 11:46:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
