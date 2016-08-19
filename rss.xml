@@ -4,7 +4,7 @@
         <description><![CDATA[Continental Reporters]]></description>
         <link>https://thegrid.ai/egerue-nnamdi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 11:50:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 11:50:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/egerue-nnamdi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Nigerian State]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/egerue-nnamdi/09b726c1-5bb2-43d0-8acf-4e34a2f855e4/index.html</link>
             <guid isPermaLink="false">09b726c1-5bb2-43d0-8acf-4e34a2f855e4</guid>
             <pubDate>Fri, 19 Aug 2016 06:41:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34f897f8-7588-4f41-8828-c412e9ca91ff.jpg">]]></description>
+            <link>https://thegrid.ai/egerue-nnamdi/ce82c03e-cf26-47e3-8e01-7aa05245d3ec/index.html</link>
+            <guid isPermaLink="false">ce82c03e-cf26-47e3-8e01-7aa05245d3ec</guid>
+            <pubDate>Fri, 19 Aug 2016 11:50:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/egerue-nnamdi/ipob-rejects-obianos-offer-to-pay-biafra-agitators-bill-om/index.html</link>
             <guid isPermaLink="false">008202f3-9aab-4807-9ab7-2beae2ff84f9</guid>
             <pubDate>Fri, 19 Aug 2016 11:47:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a3cef2e-b48c-4855-afeb-b81e7910a892.jpg">]]></description>
-            <link>https://thegrid.ai/egerue-nnamdi/massob-pledges-support-to-niger-delta-avengers-andrew-sweene/index.html</link>
-            <guid isPermaLink="false">882967d0-300d-45fe-8468-a0885d850a75</guid>
-            <pubDate>Fri, 19 Aug 2016 11:47:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
