@@ -32,15 +32,15 @@ description: >-
   confirmation that Biafra stretches towards the gulf of Guinea. The natural
   inhabitants and indigenous people of these lands are Biafrans by birth but
   Nigeria by citizens.”
-datePublished: '2016-06-13T06:13:34.735Z'
-dateModified: '2016-06-13T06:13:33.710Z'
-authors: []
-publisher: null
+datePublished: '2016-08-19T06:41:46.423Z'
+dateModified: '2016-06-15T06:37:37.348Z'
 title: ''
 author: []
-starred: false
 sourcePath: >-
   _posts/2016-06-13-massob-pledges-support-to-niger-delta-avengers-andrew-sweene.md
+authors: []
+publisher: null
+starred: false
 url: massob-pledges-support-to-niger-delta-avengers-andrew-sweene/index.html
 _type: Article
 
