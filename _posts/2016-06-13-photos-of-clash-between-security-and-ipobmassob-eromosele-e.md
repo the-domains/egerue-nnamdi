@@ -27,15 +27,15 @@ description: >-
   accusing the government and its agencies of persecution. They recently
   described as traitors leaders of the Igbo race who visited President Muhammadu
   Buhari in the heat of the attack
-datePublished: '2016-06-13T06:15:39.813Z'
-dateModified: '2016-06-13T06:15:38.945Z'
+datePublished: '2016-08-19T06:42:02.203Z'
+dateModified: '2016-06-15T06:37:09.346Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-06-13-photos-of-clash-between-security-and-ipobmassob-eromosele-e.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-13-photos-of-clash-between-security-and-ipobmassob-eromosele-e.md
 url: photos-of-clash-between-security-and-ipobmassob-eromosele-e/index.html
 _type: Article
 
