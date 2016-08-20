@@ -4,7 +4,7 @@
         <description><![CDATA[Continental Reporters]]></description>
         <link>https://thegrid.ai/egerue-nnamdi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 11:50:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 04:49:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/egerue-nnamdi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Nigerian State]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/egerue-nnamdi/09b726c1-5bb2-43d0-8acf-4e34a2f855e4/index.html</link>
             <guid isPermaLink="false">09b726c1-5bb2-43d0-8acf-4e34a2f855e4</guid>
             <pubDate>Fri, 19 Aug 2016 06:41:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4d90f9f94f90e27e75f3c74da2128dff/croprotate.jpg?cropheight=3600&cropwidth=2159&degrees=0&input=https://the-grid-user-content.s3-us-west-2.amazonaws.com/db45df6f-ad27-438e-99ce-a4d3e2d26e74.jpg&x=0&y=0">]]></description>
+            <link>https://thegrid.ai/egerue-nnamdi/photos-of-clash-between-security-and-ipobmassob-eromosele-e/index.html</link>
+            <guid isPermaLink="false">3d5ef0b9-5e34-4619-8383-35363191cdf3</guid>
+            <pubDate>Sat, 20 Aug 2016 04:49:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/egerue-nnamdi/drink-your-oil-we-would-eat-our-yams-arewa-chieftain-tells/index.html</link>
             <guid isPermaLink="false">5366a6df-cc8b-4ddf-a77f-9758d52f024b</guid>
             <pubDate>Fri, 19 Aug 2016 11:47:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbe98eb8-6eb5-4981-91c0-0fd462f6cd2e.jpg">]]></description>
-            <link>https://thegrid.ai/egerue-nnamdi/ipob-rejects-obianos-offer-to-pay-biafra-agitators-bill-om/index.html</link>
-            <guid isPermaLink="false">008202f3-9aab-4807-9ab7-2beae2ff84f9</guid>
-            <pubDate>Fri, 19 Aug 2016 11:47:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
