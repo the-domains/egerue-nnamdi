@@ -36,31 +36,6 @@ purpose:
   - type: contact
     url: 'mailto:egerueonline@yahoo.com'
     label: Contact me
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5a632fc-3d09-48f7-ad04-24d36b733ebe.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5a632fc-3d09-48f7-ad04-24d36b733ebe.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/44785efe-b878-4526-818c-e55b106229d8.png
